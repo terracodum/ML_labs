@@ -11,3 +11,6 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+
+# CatBoost авто-логи
+catboost_info/
