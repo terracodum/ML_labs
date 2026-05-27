@@ -14,3 +14,7 @@ Thumbs.db
 
 # CatBoost авто-логи
 catboost_info/
+# Датасеты лаб (большие файлы)
+lab8/data/
+lab8/logs/
+lab8/*.png
